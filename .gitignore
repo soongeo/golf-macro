@@ -1,0 +1,8 @@
+venv/
+.vscode/
+*.png
+*.json
+.pytest_cache/
+__pycache__/
+tesseract/
+capchaImg
